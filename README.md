@@ -1,5 +1,7 @@
 # mbed-nucleo-robosumo
-Simple messy robosumo program made with mbed for STMNucleo32 board (might work with other boards supporting mbed as well). I made it for a minisumo robot i competed with at [Robogames.utb.cz 2019](https://robogames.utb.cz/).
+Simple messy robosumo program made with mbed for STMNucleo32 board (might work with other boards supporting mbed as well). I made it for a minisumo robot i competed with at [Robogames.utb.cz 2019](https://robogames.utb.cz/). Used Libraries:
+* [HC_SR04_Ultrasonic_Library](https://os.mbed.com/users/ejteb/code/HC_SR04_Ultrasonic_Library/)
+* [Encoder](https://os.mbed.com/users/vsluiter/code/Encoder/)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/kukosek/mbed-nucleo-robosumo/master/sumo.gif" />
