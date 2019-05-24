@@ -18,6 +18,11 @@ The robot is searching for the oponent by measuring the distance with the ultras
 ### Atack tactic
 If the oponent is found, the robot goes straigt. If it detects an encounter with the oponent (by motor encoders), it starts a         timer. When the timer reaches x seconds, it twitches, then the timer resets.
 
+### Others
+* The program is started by pressing a custom button
+* The default field color can be setted by holding the custom button for 5 seconds
+* An custom LED can be used to indicate the state
+
 ## Usage
  1. First create an project in [mbed](https://ide.mbed.com/compiler/) 
  2. Import the files (Or rewrite the arleady existing files with these) from this repository
